@@ -602,5 +602,8 @@
     "custom_thumbnail_url": "缩略图URL",
     "hide_post": "隐藏帖子",
     "unhide_post": "取消隐藏帖子",
-    "show_hidden_posts": "显示已隐藏的帖子"
+    "show_hidden_posts": "显示已隐藏的帖子",
+    "torphy_case": "社区成就",
+    "homelab": "Homelab",
+    "view_profile": "查看我的信息"
 }
