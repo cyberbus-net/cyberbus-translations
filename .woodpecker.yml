@@ -3,7 +3,7 @@ steps:
     image: alpine:3
     commands:
       - apk add curl
-      - "curl -d'cyberbus-translations CI build failed: ${CI_PIPELINE_URL}' ntfy.sh/lemmy_drone_ci"
+      - "curl -d'cyberbus-translations CI build failed: ${CI_PIPELINE_URL}' ntfy.sh/cyberbus_drone_ci"
     when:
       - event: pull_request
         status: failure

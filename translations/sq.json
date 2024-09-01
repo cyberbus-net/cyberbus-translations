@@ -217,7 +217,7 @@
     "setup_admin": "Emëro një administrator të faqes",
     "nsfw": "NSFW",
     "theme": "Pamja",
-    "lemmy_instance_setup": "Konfigurimi i një instance të Lemmy-it",
+    "cyberbus_instance_setup": "Konfigurimi i një instance të Cyberbus-it",
     "community_ban": "Jeni dëbuar nga ky komunitet.",
     "site_ban": "Jeni dëbuar nga kjo faqe",
     "community_already_exists": "Komuniteti ekziston më.",
@@ -234,6 +234,6 @@
     "notifications_error": "Njoftimet në desktop nuk janë të mundshme në shfletuesin tuaj. Provoni Firefox ose Chrome.",
     "unread_messages": "Mesazhet e palexuara",
     "reset_password_mail_sent": "Një Email është dërguar për të ndryshuar fjalëkalimin tuaj.",
-    "private_message_disclaimer": "Paralajmërim: Mesazhet private në Lemmy nuk janë të siguruara. Ju lutem krijoni një account në <1>Riot.im</1> për të dërguar mesazhe të sigurta.",
+    "private_message_disclaimer": "Paralajmërim: Mesazhet private në Cyberbus nuk janë të siguruara. Ju lutem krijoni një account në <1>Riot.im</1> për të dërguar mesazhe të sigurta.",
     "copy_suggested_title": "kopjo titullin e sugjeruar: {{title}}"
 }

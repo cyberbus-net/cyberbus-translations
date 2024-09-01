@@ -60,7 +60,7 @@
     "view_all_comments": "Vis alle kommentarene",
     "distinguish": "Skriv som moderator",
     "profile_not_logged_in_alert": "Du er ikke innlogget. Hvis du briker en Fediverse-konto som kan følge brukere, kan du følge denne brukeren.",
-    "community_not_logged_in_alert": "Du er ikke innlogget. Men du kan også abonnere fra en annen Fediverse-konto, for eksempel Lemmy eller Mastodon. Det gjør du ved å lime inn dette i søkefeltet til instansen din: <1>!{{community}}@{{instance}}</1>",
+    "community_not_logged_in_alert": "Du er ikke innlogget. Men du kan også abonnere fra en annen Fediverse-konto, for eksempel Cyberbus eller Mastodon. Det gjør du ved å lime inn dette i søkefeltet til instansen din: <1>!{{community}}@{{instance}}</1>",
     "purge_warning": "Advarsel: Vekkrenskningen vil slette elementet og alle underelementene direkte fra databasen. Det vil ikke vere mulig å gjenopprette innholdet. Vis svært stor forsiktighet.",
     "number_of_subscribers": "{{formattedCount}} abonnent",
     "number_of_subscribers_plural": "{{formattedCount}} abonnenter",

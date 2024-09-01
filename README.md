@@ -1,7 +1,4 @@
 # cyberbus-translations
 
-A store for lemmy's translations in i18n json format.
+A store for cyberbus forum in i18n json format. Fork from cyberbus's translations.
 
----
-
-**Translations** are made by **Weblate** on this site: https://weblate.join-lemmy.org/projects/lemmy/
