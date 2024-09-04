@@ -606,5 +606,8 @@
     "torphy_case": "社区成就",
     "homelab": "Homelab",
     "view_profile": "查看我的信息",
-    "karma": "功德"
+    "karma": "功德",
+    "post_a_post": "发帖",
+    "post_a_link": "分享链接",
+    "post_image_or_video": "分享图片或视频"
 }
