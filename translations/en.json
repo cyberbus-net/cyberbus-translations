@@ -652,5 +652,6 @@
   "karma": "Karma",
   "post_a_post": "Post",
   "post_a_link": "Share Link",
-  "post_image_or_video": "Share Image or Video"
+  "post_image_or_video": "Share Image or Video",
+  "require_invite_code": "Require Invite Code"
 }

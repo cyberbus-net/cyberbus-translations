@@ -609,5 +609,6 @@
     "karma": "功德",
     "post_a_post": "发帖",
     "post_a_link": "分享链接",
-    "post_image_or_video": "分享图片或视频"
+    "post_image_or_video": "分享图片或视频",
+    "require_invite_code": "请输入邀请码"
 }
