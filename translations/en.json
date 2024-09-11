@@ -654,5 +654,8 @@
   "post_a_link": "Share Link",
   "post_image_or_video": "Share Image or Video",
   "invite_code": "Invite Code",
-  "require_invite_code": "Require Invite Code"
+  "require_invite_code": "Require Invite Code",
+  "you_have_no_trophy": "You have no trophy",
+  "alpha_user": "α Test User",
+  "rewarded_at": "Rewarded at"
 }

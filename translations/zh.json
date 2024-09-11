@@ -611,5 +611,11 @@
     "post_a_link": "分享链接",
     "post_image_or_video": "分享图片或视频",
     "invite_code": "邀请码",
-    "require_invite_code": "请输入邀请码"
+    "require_invite_code": "请输入邀请码",
+    "you_have_no_trophy": "没有任何奖杯",
+    "alpha_user": "α 测试用户",
+    "rewarded_at": "该成就获得于"
+
+
+
 }
