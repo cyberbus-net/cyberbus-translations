@@ -657,5 +657,7 @@
   "require_invite_code": "Require Invite Code",
   "you_have_no_trophy": "You have no trophy",
   "alpha_user": "α Test User",
+  "closed_beta_user": "Closed β Test User",
+  "open_beta_user": "Open β Test User",
   "rewarded_at": "Rewarded at"
 }
