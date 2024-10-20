@@ -86,7 +86,7 @@
     "deleted": "作者已删除",
     "delete_account": "删除账号",
     "delete_account_confirm": "警告：这将永久删除您的账户。 删除后可能不一定会与其他实例连接。请输入您的密码以确认。",
-    "click_to_delete_picture": "点击删除图片：{{filename}}",
+    "click_to_delete_picture": "上传成功。点击删除图片：{{filename}}",
     "picture_deleted": "图片已删除：{{filename}}",
     "restore": "恢复",
     "ban": "拉黑",

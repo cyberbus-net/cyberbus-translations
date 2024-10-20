@@ -153,7 +153,7 @@
   "delete_account": "Delete Account",
   "delete_account_content": "Delete all posts, comments and uploaded images",
   "delete_account_confirm": "Warning: this will permanently delete your account. The deletion may not always federate to other instances. Enter your password to confirm.",
-  "click_to_delete_picture": "Click to delete picture: {{filename}}",
+  "click_to_delete_picture": "Upload successful. Click to delete picture: {{filename}}",
   "failed_to_delete_picture": "Failed to delete picture: {{filename}}",
   "picture_deleted": "Picture deleted: {{filename}}",
   "pictures_uploaded_progess": "{{uploaded}}/{{total}} pictures uploaded",
