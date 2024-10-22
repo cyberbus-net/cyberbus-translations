@@ -616,7 +616,11 @@
     "alpha_user": "α 测试用户",
     "closed_beta_user": "β 内测用户",
     "open_beta_user": "β 公测用户",
-    "rewarded_at": "该成就获得于"
+    "rewarded_at": "该成就获得于",
+    "i_agree_to_tos": "我已阅读并同意用户协议",
+    "terms_of_service": "《用户协议》",
+    "read_before_posting": "发帖前请先阅读",
+    "content_policy": "《内容政策》"
 
 
 

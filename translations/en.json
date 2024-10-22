@@ -659,5 +659,9 @@
   "alpha_user": "α Test User",
   "closed_beta_user": "Closed β Test User",
   "open_beta_user": "Open β Test User",
-  "rewarded_at": "Rewarded at"
+  "rewarded_at": "Rewarded at",
+  "i_agree_to_tos": "I agree to the terms of service",
+  "terms_of_service": "Terms of Service",
+  "read_before_posting": "Read before posting",
+  "content_policy": "Content Policy"
 }
