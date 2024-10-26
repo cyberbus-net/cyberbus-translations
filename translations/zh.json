@@ -620,7 +620,9 @@
     "i_agree_to_tos": "我已阅读并同意用户协议",
     "terms_of_service": "用户协议",
     "read_before_posting": "发帖前请先阅读",
-    "content_policy": "内容政策"
+    "content_policy": "内容政策",
+    "share_as_image": "分享为图片",
+    "share_as_image_with_comment": "分享为图片（带评论）"
 
 
 

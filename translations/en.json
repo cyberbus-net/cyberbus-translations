@@ -663,5 +663,7 @@
   "i_agree_to_tos": "I agree to the terms of service",
   "terms_of_service": "Terms of Service",
   "read_before_posting": "Read before posting",
-  "content_policy": "Content Policy"
+  "content_policy": "Content Policy",
+  "share_as_image": "Share as Image",
+  "share_as_image_with_comment": "Share as Image with Comment"
 }
