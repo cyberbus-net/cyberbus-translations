@@ -668,5 +668,12 @@
   "read_before_posting": "Read before posting",
   "content_policy": "Content Policy",
   "share_as_image": "Share as Image",
-  "share_as_image_with_comment": "Share as Image with Comment"
+  "share_as_image_with_comment": "Share as Image with Comment",
+  "trophy_alpha_user_desc": "This trophy is awarded to users who participated in Cyberbus Alpha testing. Thank you for your contribution.",
+  "trophy_closed_beta_user_desc": "This trophy is awarded to users who participated in Cyberbus Closed Beta testing. Thank you for your contribution.",
+  "trophy_open_beta_user_desc": "This trophy is awarded to users who participated in Cyberbus Open Beta testing. Thank you for your contribution.",
+  "trophy_glorious_group_moderator_desc": "This trophy is awarded to glorious QQ Group moderators. Thank you for your contribution to the QQ Group.",
+  "trophy_x7d12_user_desc": "This trophy is awarded to 7D12 Coal Tycoons. May your profits soar!",
+  "trophy_public_open_beta_user_desc": "This trophy is awarded to users who participated in Cyberbus Public testing. Thank you for your contribution.",
+  "trophy_1st_show_your_build_competition_desc": "This trophy is awarded to users who participated in the first PC Build Competition on Cyberbus. Your computer rocks!"
 }

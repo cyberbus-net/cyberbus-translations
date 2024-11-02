@@ -414,12 +414,19 @@
     "open_beta_user": "Open β 測試使用者",
     "public_open_beta_user": "公測使用者",
     "glorious_group_moderator": "光榮的QQ群管理員",
-    "x7d12_user": "7D12 煤老板",
+    "x7d12_user": "7D12 煤老闆",
     "rewarded_at": "獲得獎盃時間",
-    "i_agree_to_tos": "我同意服務條款",
+    "i_agree_to_tos": "我��意服務條款",
     "terms_of_service": "服務條款",
     "read_before_posting": "閱讀前發文",
     "content_policy": "內容政策",
     "share_as_image": "分享為圖片",
-    "share_as_image_with_comment": "分享為圖片並附上留言"
+    "share_as_image_with_comment": "分享為圖片並附上留言",
+    "trophy_alpha_user_desc": "此獎盃授予在 Cyberbus 上參與 Alpha 測試的使用者。感謝您做出的貢獻。",
+    "trophy_closed_beta_user_desc": "此獎盃授予在 Cyberbus 上參與 Beta 內測的使用者。感謝您做出的貢獻。",
+    "trophy_open_beta_user_desc": "此獎盃授予在 Cyberbus 上參與 Beta 公測的使用者。感謝您做出的貢獻。",
+    "trophy_glorious_group_moderator_desc": "此獎盃授予光榮的 QQ 群管理員。感謝您為 QQ 群做出的貢獻。",
+    "trophy_x7d12_user_desc": "此獎盃授予 7D12 煤老闆，祝您日進斗金。",
+    "trophy_public_open_beta_user_desc": "此獎盃授予在 Cyberbus 參與公共測試的使用者。感謝您做出的貢獻。",
+    "trophy_1st_show_your_build_competition_desc": "此獎盃授予在 Cyberbus 參加第一屆曬機大賽的使用者。你的電腦超強的！"
 }
