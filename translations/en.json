@@ -678,5 +678,7 @@
   "trophy_1st_show_your_build_competition_desc": "This trophy is awarded to users who participated in the first PC Build Competition on Cyberbus. Your computer rocks!",
   "_1st_show_your_build_competition": "Cyberbus first PC Build Competition",
   "trophy_proud_qq_group_user_desc": "This trophy is awarded to users who are in the Electronic Scavenger QQ Group. Thank you for your contribution.",
-  "proud_qq_group_user": "Proud QQ Group User"
+  "proud_qq_group_user": "Proud QQ Group User",
+  "username_for_signup": "Username (id, all English, cannot be changed after registration, please add a nickname after registration to the personal settings page, the nickname can use Chinese)"
+
 }
