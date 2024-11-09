@@ -432,7 +432,9 @@
     "_1st_show_your_build_competition": "Cyberbus 第一屆曬機大賽",
     "trophy_proud_qq_group_user_desc": "此獎盃授予 Electronic Scavenger QQ 群的使用者。感謝您做出的貢獻。",
     "proud_qq_group_user": "光榮的QQ群使用者",
-    "username_for_signup": "使用者名稱(id, 全英文, 註冊後不可更改, 請註冊後到個人設定頁面新增暱稱, 暱稱可以使用中文)"
+    "username_for_signup": "使用者名稱(id, 全英文, 註冊後不可更改, 請註冊後到個人設定頁面新增暱稱, 暱稱可以使用中文)",
+    "resend_verify_email": "重新發送驗證郵件",
+    "verification_email_sent": "驗證郵件已發送"
 
 
 }

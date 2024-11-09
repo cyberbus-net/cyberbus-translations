@@ -679,6 +679,8 @@
   "_1st_show_your_build_competition": "Cyberbus first PC Build Competition",
   "trophy_proud_qq_group_user_desc": "This trophy is awarded to users who are in the Electronic Scavenger QQ Group. Thank you for your contribution.",
   "proud_qq_group_user": "Proud QQ Group User",
-  "username_for_signup": "Username (id, all English, cannot be changed after registration, please add a nickname after registration to the personal settings page, the nickname can use Chinese)"
+  "username_for_signup": "Username (id, all English, cannot be changed after registration, please add a nickname after registration to the personal settings page, the nickname can use Chinese)",
+  "resend_verify_email": "Resend verification email",
+  "verification_email_sent": "Verification email sent"
 
 }

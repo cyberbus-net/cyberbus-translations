@@ -622,5 +622,7 @@
     "_1st_show_your_build_competition": "Cyberbus 第一回自作PCコンテスト",
     "trophy_proud_qq_group_user_desc": "このトロフィーは、Electronic Scavenger QQグループのユーザーに授与されます。ご協力ありがとうございました。",
     "proud_qq_group_user": "光榮的QQ群ユーザー",
-    "username_for_signup": "ユーザー名(id, 全英語, 登録後は変更不可, 登録後は個人設定ページにてニックネームを追加してください, ニックネームは日本語も使用可能)"
+    "username_for_signup": "ユーザー名(id, 全英語, 登録後は変更不可, 登録後は個人設定ページにてニックネームを追加してください, ニックネームは日本語も使用可能)",
+    "resend_verify_email": "メールアドレス認証を再送信",
+    "verification_email_sent": "メールアドレス認証を再送信"
 }
