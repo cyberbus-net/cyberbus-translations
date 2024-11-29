@@ -635,5 +635,6 @@
     "show_upvote_percentage": "Afficher le pourcentage de votes pour",
     "upvote_percentage": "{{formattedCount}}% ont voté pour",
     "uploads": "Téléversements",
-    "uploader": "Téléversé par"
+    "uploader": "Téléversé par",
+    "post_image_or_video_blurb": "Seulement pour partager une image ou une vidéo, si vous avez du texte, sélectionnez un post"
 }

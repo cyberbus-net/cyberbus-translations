@@ -616,5 +616,7 @@
     "remote_follow": "Удаленно подписаться",
     "remote_follow_modal_title": "Подписка из удаленного экземпляра",
     "remote_follow_invalid_instance": "{{instance}} не является действительным доменом.",
-    "confirmation_required": "Требуется подтверждение"
+    "confirmation_required": "Требуется подтверждение",
+    "post_image_or_video_blurb": "Только для одного изображения или видео, если есть текст, выберите публикацию"
+
 }

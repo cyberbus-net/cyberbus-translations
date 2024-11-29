@@ -639,5 +639,6 @@
     "username_for_signup": "用户名 (id, 全英文, 注册后不可更改, 请注册后到个人设置页添加昵称, 昵称可以使用中文)",
     "resend_verify_email": "重新发送验证邮件",
     "verification_email_sent": "验证邮件已发送",
-    "email_with_comment": "Email (如果收不到邮件请查看邮件是否在垃圾邮件收件箱)"
+    "email_with_comment": "Email (如果收不到邮件请查看邮件是否在垃圾邮件收件箱)",
+    "post_image_or_video_blurb": "只适合分享单张图片或视频, 如果有图文混排请选择发帖"
 }

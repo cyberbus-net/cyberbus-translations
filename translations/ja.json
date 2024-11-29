@@ -625,5 +625,7 @@
     "username_for_signup": "ユーザー名 (id, 全英語, 登録後は変更不可, 登録後は個人設定ページにてニックネームを追加してください, ニックネームは日本語も使用可能)",
     "resend_verify_email": "メールアドレス認証を再送信",
     "verification_email_sent": "メールアドレス認証を再送信",
-    "email_with_comment": "Email (メールが届かない場合は、迷惑メールフォルダを確認してください。)"
+    "email_with_comment": "Email (メールが届かない場合は、迷惑メールフォルダを確認してください。)",
+    "post_image_or_video_blurb": "単一の画像または動画のみを共有できます。テキストがある場合は投稿を選択してください。"
+
 }

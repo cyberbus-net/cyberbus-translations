@@ -682,5 +682,6 @@
   "username_for_signup": "Username (id, all English, cannot be changed after registration, please add a nickname after registration to the personal settings page, the nickname can use Chinese)",
   "resend_verify_email": "Resend verification email",
   "verification_email_sent": "Verification email sent",
-  "email_with_comment": "Email (If you haven't received the email, please check your spam/junk folder.)"
+  "email_with_comment": "Email (If you haven't received the email, please check your spam/junk folder.)",
+  "post_image_or_video_blurb": "Only for sharing a single image or video, if there is text, please select a post"
 }

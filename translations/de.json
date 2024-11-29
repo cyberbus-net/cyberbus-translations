@@ -611,5 +611,6 @@
     "fetch_registration_error": "Registrierungsantrag konnte nicht abgerufen werden",
     "view_registration": "Registrierung ansehen",
     "number_of_local_subscribers": "{{formattedCount}} lokaler Abonnent",
-    "number_of_local_subscribers_plural": "{{formattedCount}} lokale Abonnenten"
+    "number_of_local_subscribers_plural": "{{formattedCount}} lokale Abonnenten",
+    "post_image_or_video_blurb": "Nur für das Teilen einer einzelnen Bild oder Video, wenn es Text gibt, bitte einen Beitrag auswählen"
 }
